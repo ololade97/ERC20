@@ -1,1 +1,1 @@
-# ERC20
+The smart contract mints ERC20 tokens.
