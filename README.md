@@ -1,1 +1,1 @@
-The smart contract mints ERC20 tokens.
+The smart contract mints maximum of 200,000 ERC20 tokens.
